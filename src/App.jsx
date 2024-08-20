@@ -9,7 +9,7 @@ import AdminDashboard from "./pages/AdminPanelpage"
 
 const router = createBrowserRouter([
   {
-    path: "/Mrquickfix/",
+    path: "/mrquick-official/",
     element: <Home />,
   },
   {

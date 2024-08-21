@@ -13,19 +13,19 @@ const router = createBrowserRouter([
     element: <Home />,
   },
   {
-    path: "/Mrquickfix/projects/",   
+    path: "/mrquick-official/projects/",   
     element: <Projectpage />,
   },
   {
-    path: "/Mrquickfix/testimonials/",
+    path: "/mrquick-official/testimonials/",
     element: <AllTestimonialpage />,
   },
   {
-    path: "/Mrquickfix/admin/login/",
+    path: "/mrquick-official/admin/login/",
     element: <LoginPage />,
   },
   {
-    path: "/Mrquickfix/admin/dashboard/",
+    path: "/mrquick-official/admin/dashboard/",
     element: <AdminDashboard />,
   },
   {
